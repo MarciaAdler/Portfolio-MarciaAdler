@@ -1,0 +1,65 @@
+[
+  {
+    "id": 7,
+    "name": "Project 3: The Viral Effect",
+    "image": "../images/TheViralEffect.png",
+    "link": "https://hidden-everglades-28296.herokuapp.com/",
+    "github": "https://github.com/MarciaAdler/Project3-Viral2.0",
+    "description": "The Viral Effect tracks the impact of the Corona Virus on the US.  Users can login to view how the Covid-19 has impacted the closing price of the Consumer Discretionary fund ETF over the time since teh first case was reported in January, and the number of cases in the US over teh same period.  There is a comment section for users to enter comments and have a conversation about what they are seeing.  ON the industries page, users can view the pre-Covid-19 statistics for different industries based on how the Bureua of Labor Statistics defines industries and then enter in an assumption on how Covid-19 will impact the industry and see the impact on wages and what the total hit to economy may be.  The data for the industries comes from the BLS, the ETF data comes from WorldTradingData, and teh Covid-19 data comes from Johns Hopkins.",
+    "technologies": "React, Bootstrap-for-React, JavaScript, Data Scraping, API, Express, axios, chart.js, Sequelize"
+  },
+  {
+    "id": 1,
+    "name": "Project 1: hungry much?",
+    "image": "../images/projectone.png",
+    "link": "https://marciaadler.github.io/ProjectOne/",
+    "github": "https://github.com/MarciaAdler/ProjectOne",
+    "description": "hungry much? is an app that allows users to search for recipes by main ingredient and get a list of recipes that include the main ingredient along with the nutritional information and a link to the recipe.  Users can save recipes for future reference.  Users can also search for food items and get nutritional information per serving for food items",
+    "technologies": "HTML, CSS, JavaScript, JQuery, API"
+  },
+  {
+    "id": 2,
+    "name": "Project 2: The Viral",
+    "image": "../images/TheViral.png",
+    "link": "https://shrouded-woodland-22808.herokuapp.com/",
+    "github": "https://github.com/MarciaAdler/Project2",
+    "description": "The Viral App allows users to view the progression of the Coronavirus (COVID-19) and see how many cases have been diagnosed over time globally and also by country. Users can view a graph that shows the progression of the virus since they began tracking it.  Users can also view a news feed that shows relevant articles, and twitter posts via APIs.",
+    "technologies": "HTML, CSS, JavaScript, JQuery, express, Sequelize, handlebars, Puppeteer, D3, API"
+  },
+  {
+    "id": 3,
+    "name": "Password Generator App",
+    "image": "../images/password-generator-app.png",
+    "link": "https://marciaadler.github.io/PasswordGenerator/",
+    "github": "https://github.com/MarciaAdler/PasswordGenerator",
+    "description": "The password generator allows users to generate random passwords based on criteria they input through prompts.  Users can input how many characters they want the password to be, and then select if they want special characters, upper or lowercase letters, and numbers to be included.  Once generated, users can copy the password to their computer's clipboard and paste it wherever they'd like.",
+    "technologies": "HTML, CSS, JavaScript"
+  },
+  {
+    "id": 4,
+    "name": "Day Planner App",
+    "image": "../images/dayplannerapp.png",
+    "link": "https://marciaadler.github.io/DayPlanner/",
+    "github": "https://github.com/MarciaAdler/DayPlanner",
+    "description": "The Day Planner allows users to view their daily schedule by hour.  The app color codes the inputs by hours, grey being in the past, red being current, and green in the future.  Users can input their activities into the color coded section and save their inputs to local storage for future reference.",
+    "technologies": "HTML, CSS, JavaScript, JQuery"
+  },
+  {
+    "id": 5,
+    "name": "Budget Tracker App",
+    "image": "../images/budgettrackerapp.png",
+    "link": "https://limitless-island-26284.herokuapp.com/",
+    "github": "https://github.com/MarciaAdler/BudgetTracker",
+    "description": "The Budget Tracker App allows users to track their incoming and outgoing payments.  Users are able to input the name of a transcation, the amount, and whether they are adding funds or subtracting funds. Users can then see a list of their transactions, as well as a graph showing their total budget over time.  History is tracker in a database, and the app can be used offline.  Any transactions made while offline will be stored to be processed once a user goes back online.  The app is also designed to be a Progressive Web App (PWA) and is mobile friendly.",
+    "technologies": "HTML, CSS, JavaScript, MongoDB, IndexedDB, PWA"
+  },
+  {
+    "id": 6,
+    "name": "Fitness Tracker App",
+    "image": "../images/fitnesstracker.png",
+    "link": "https://vast-oasis-67368.herokuapp.com/?id=5e5d28ffb531fe0017469725",
+    "github": "https://github.com/MarciaAdler/fitness-tracker",
+    "description": "The fitness tracker app allows users to add exercises and create workouts. Users can add exercises to the last workout, or they can create a new workout.  Users can view a dashboard to view a summary of their recent exercises.",
+    "technologies": "HTML, CSS, JavaScript, MongoDB, Express"
+  }
+]
