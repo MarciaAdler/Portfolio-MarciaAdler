@@ -4,25 +4,25 @@ const styles = {
   display: {
     marginTop: "40px",
 
-    textAlign: "center"
+    textAlign: "center",
   },
   mainContent: {
     height: "60vh",
-    marginBottom: "50px"
+    marginBottom: "50px",
   },
   title: {
-    textAlign: "center"
+    textAlign: "center",
   },
   icon: {
     float: "left",
     height: "30px",
     marginRight: "10px",
-    marginLeft: "20px"
+    marginLeft: "20px",
   },
   link: {
     position: "relative",
-    fontSize: "20px"
-  }
+    fontSize: "20px",
+  },
 };
 function Contact() {
   return (
@@ -49,6 +49,7 @@ function Contact() {
               style={styles.link}
               href="https://www.linkedin.com/in/marciaadler/"
               target="_blank"
+              rel="noopener noreferrer"
             >
               LinkedIn
             </a>
@@ -66,6 +67,7 @@ function Contact() {
               style={styles.link}
               href="https://github.com/MarciaAdler"
               target="_blank"
+              rel="noopener noreferrer"
             >
               GitHub
             </a>

@@ -5,14 +5,15 @@ const styles = {
   container: {
     marginBottom: "50px",
     marginTop: "0",
-    paddingBottom: "50px"
+    paddingBottom: "50px",
   },
   title: {
-    textAlign: "center"
+    textAlign: "center",
   },
   p: {
-    textAlign: "center"
-  }
+    textAlign: "center",
+    color: "white",
+  },
 };
 function About() {
   return (

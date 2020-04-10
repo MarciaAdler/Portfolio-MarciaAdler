@@ -5,15 +5,17 @@ import portfolioitems from "../portfolioitems.json";
 const styles = {
   container: {
     marginBottom: "50px",
-    paddingBottom: "30px"
+    paddingBottom: "30px",
+    color: "white",
   },
   title: {
-    textAlign: "center"
-  }
+    textAlign: "center",
+    fontColor: "white",
+  },
 };
 class Portfolio extends Component {
   state = {
-    portfolioitems
+    portfolioitems,
   };
 
   render() {
@@ -26,17 +28,20 @@ class Portfolio extends Component {
           interest.
         </p>
         <hr />
-        {this.state.portfolioitems.map(item => (
-          <PortfolioItems
-            key={item.id}
-            name={item.name}
-            image={item.image}
-            link={item.link}
-            github={item.github}
-            description={item.description}
-            technologies={item.technologies}
-          />
-        ))}
+        <div className="row">
+          {this.state.portfolioitems.map((item) => (
+            <PortfolioItems
+              key={item.id}
+              name={item.name}
+              image={item.image}
+              titleimage={item.titleimage}
+              link={item.link}
+              github={item.github}
+              description={item.description}
+              technologies={item.technologies}
+            />
+          ))}
+        </div>
       </div>
     );
   }

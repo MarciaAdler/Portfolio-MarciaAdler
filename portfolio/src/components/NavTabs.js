@@ -2,10 +2,10 @@ import React from "react";
 import { Link, useLocation } from "react-router-dom";
 const styles = {
   nav: {
-    backgroundColor: "black",
+    backgroundColor: "lightgrey",
     paddingBottom: "20px",
-    opacity: "50%"
-  }
+    opacity: "50%",
+  },
 };
 function NavTabs() {
   // We'll go into the Hooks API later, for now, we are just using some code
@@ -17,23 +17,19 @@ function NavTabs() {
     <ul className="nav justify-content-center" style={styles.nav}>
       <li className="nav-item">
         <Link
-          to="/ReactPortfolio/about"
+          to="/about"
           className={
-            location.pathname === "/ReactPortfolio/about"
-              ? "nav-link active"
-              : "nav-link"
+            location.pathname === "/about" ? "nav-link active" : "nav-link"
           }
         >
           About
         </Link>
       </li>
-      <li className="nav-item">
+      <li className="nav-item" style={styles.link}>
         <Link
-          to="/ReactPortfolio/portfolio"
+          to="/portfolio"
           className={
-            location.pathname === "/ReactPortfolio/portfolio"
-              ? "nav-link active"
-              : "nav-link"
+            location.pathname === "/portfolio" ? "nav-link active" : "nav-link"
           }
         >
           Portfolio
@@ -41,11 +37,9 @@ function NavTabs() {
       </li>
       <li className="nav-item">
         <Link
-          to="/ReactPortfolio/contact"
+          to="/contact"
           className={
-            location.pathname === "/ReactPortfolio/contact"
-              ? "nav-link active"
-              : "nav-link"
+            location.pathname === "/contact" ? "nav-link active" : "nav-link"
           }
         >
           Contact

@@ -1,15 +1,15 @@
 import React from "react";
 const styles = {
   header: {
-    backgroundColor: "black",
+    backgroundColor: "lightgrey",
     fontSize: "50px",
-    color: "white",
+    color: "black",
     textAlign: "center",
     paddingTop: "40px",
     flexDirection: "row",
     alignContent: "center",
-    opacity: "50%"
-  }
+    opacity: "40%",
+  },
 };
 function Header() {
   return <header style={styles.header}>Marcia Adler</header>;
