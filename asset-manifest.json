@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio-MarciaAdler/static/css/main.40c01e72.chunk.css",
-    "main.js": "/Portfolio-MarciaAdler/static/js/main.2589cafd.chunk.js",
-    "main.js.map": "/Portfolio-MarciaAdler/static/js/main.2589cafd.chunk.js.map",
+    "main.js": "/Portfolio-MarciaAdler/static/js/main.f9382d84.chunk.js",
+    "main.js.map": "/Portfolio-MarciaAdler/static/js/main.f9382d84.chunk.js.map",
     "runtime-main.js": "/Portfolio-MarciaAdler/static/js/runtime-main.b063c9a1.js",
     "runtime-main.js.map": "/Portfolio-MarciaAdler/static/js/runtime-main.b063c9a1.js.map",
     "static/js/2.56da070f.chunk.js": "/Portfolio-MarciaAdler/static/js/2.56da070f.chunk.js",
     "static/js/2.56da070f.chunk.js.map": "/Portfolio-MarciaAdler/static/js/2.56da070f.chunk.js.map",
     "index.html": "/Portfolio-MarciaAdler/index.html",
-    "precache-manifest.5cedf775d2c4a38e99ce31a42e0cd1c8.js": "/Portfolio-MarciaAdler/precache-manifest.5cedf775d2c4a38e99ce31a42e0cd1c8.js",
+    "precache-manifest.8fb5d321e8e5f7d15304b4c37c427163.js": "/Portfolio-MarciaAdler/precache-manifest.8fb5d321e8e5f7d15304b4c37c427163.js",
     "service-worker.js": "/Portfolio-MarciaAdler/service-worker.js",
     "static/css/main.40c01e72.chunk.css.map": "/Portfolio-MarciaAdler/static/css/main.40c01e72.chunk.css.map",
     "static/js/2.56da070f.chunk.js.LICENSE.txt": "/Portfolio-MarciaAdler/static/js/2.56da070f.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b063c9a1.js",
     "static/js/2.56da070f.chunk.js",
     "static/css/main.40c01e72.chunk.css",
-    "static/js/main.2589cafd.chunk.js"
+    "static/js/main.f9382d84.chunk.js"
   ]
 }
