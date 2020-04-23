@@ -3,8 +3,9 @@ import { Link, useLocation } from "react-router-dom";
 const styles = {
   nav: {
     backgroundColor: "lightgrey",
-    paddingBottom: "20px",
+    padding: "10px",
     opacity: "50%",
+    fontSize: "20px",
   },
 };
 function NavTabs() {

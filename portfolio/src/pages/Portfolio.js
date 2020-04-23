@@ -37,7 +37,7 @@ class Portfolio extends Component {
               titleimage={item.titleimage}
               link={item.link}
               github={item.github}
-              description={item.description}
+              shortdescription={item.shortdescription}
               technologies={item.technologies}
             />
           ))}

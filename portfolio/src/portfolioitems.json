@@ -1,13 +1,14 @@
 [
   {
     "id": 7,
-    "name": "Project 3: The Viral Effect",
-    "image": "./images/TheViralEffect.png",
-    "titleimage": "./images/theviraleffecttitle.png",
-    "link": "https://hidden-everglades-28296.herokuapp.com/",
-    "github": "https://github.com/MarciaAdler/Project3-Viral2.0",
-    "description": "The Viral Effect tracks the impact of the Corona Virus on the US.  Users can login to view how the Covid-19 has impacted the closing price of the Consumer Discretionary fund ETF over the time since teh first case was reported in January, and the number of cases in the US over teh same period.  There is a comment section for users to enter comments and have a conversation about what they are seeing.  ON the industries page, users can view the pre-Covid-19 statistics for different industries based on how the Bureua of Labor Statistics defines industries and then enter in an assumption on how Covid-19 will impact the industry and see the impact on wages and what the total hit to economy may be.  The data for the industries comes from the BLS, the ETF data comes from WorldTradingData, and teh Covid-19 data comes from Johns Hopkins.",
-    "technologies": "React, Bootstrap-for-React, JavaScript, Data Scraping, API, Express, axios, chart.js, Sequelize"
+    "name": "SingAlong Karaoke",
+    "image": "./images/SingAlong-homepage.png",
+    "titleimage": "./images/SingAlong-title.png",
+    "link": "https://shrouded-cliffs-43407.herokuapp.com/",
+    "github": "https://github.com/MarciaAdler/KaraokeApp",
+    "shortdescription": "Search and save your favorite karaoke songs.",
+    "description": "SingAlong Karaoke allos users to search for popular karaoke songs.Users can also sign-up and create an account to be able to save favorites for future reference. Users can view information on songs such as genres, release year, lyrics, Youtube lyric videos,if it is a duet and other songs by the same artist.",
+    "technologies": "React, Bootstrap, Sass, JavaScript, APIs, Express, NodeJS, MySQL (Sequelize)"
   },
   {
     "id": 1,
@@ -16,6 +17,7 @@
     "titleimage": "./images/hungrymuchtitle.png",
     "link": "https://marciaadler.github.io/ProjectOne/",
     "github": "https://github.com/MarciaAdler/ProjectOne",
+    "shortdescription": "Allows users to search for foods and recipes and retrieve nutritional information.",
     "description": "hungry much? is an app that allows users to search for recipes by main ingredient and get a list of recipes that include the main ingredient along with the nutritional information and a link to the recipe.  Users can save recipes for future reference.  Users can also search for food items and get nutritional information per serving for food items",
     "technologies": "HTML, CSS, JavaScript, JQuery, API"
   },
@@ -26,6 +28,7 @@
     "titleimage": "./images/googlebooksearchtitle.png",
     "link": "https://stormy-springs-52175.herokuapp.com/",
     "github": "https://github.com/MarciaAdler/GoogleBooksSearch",
+    "shortdescription": "Allows users to search for books by title and save favorites using the Google Book API.",
     "description": "The Google Book Search App allows users to search for books by title using the Google API. When a user searches for a book, they will get back the top 10 results for that book including title, author(s), description, link and image thumbnail. On the search page users can save books to a database and view those saved books on the saved page. On the Saved page, users can delete books from that page.",
     "technologies": "ReactJS, JavaScript, Bootstrap, MongoDB, API, Express, Google Books API"
   },
@@ -36,6 +39,7 @@
     "titleimage": "../images/passwordgeneratortitle.png",
     "link": "https://marciaadler.github.io/PasswordGenerator/",
     "github": "https://github.com/MarciaAdler/PasswordGenerator",
+    "shortdescription": "Generates unique passwords based on requirements input by users.",
     "description": "The password generator allows users to generate random passwords based on criteria they input through prompts.  Users can input how many characters they want the password to be, and then select if they want special characters, upper or lowercase letters, and numbers to be included.  Once generated, users can copy the password to their computer's clipboard and paste it wherever they'd like.",
     "technologies": "HTML, CSS, JavaScript"
   },
@@ -46,6 +50,7 @@
     "titleimage": "../images/dayplannerapptitle.png",
     "link": "https://marciaadler.github.io/DayPlanner/",
     "github": "https://github.com/MarciaAdler/DayPlanner",
+    "shortdescription": "Allows users to input daily activities into a daily planner, save them and then view and update.",
     "description": "The Day Planner allows users to view their daily schedule by hour.  The app color codes the inputs by hours, grey being in the past, red being current, and green in the future.  Users can input their activities into the color coded section and save their inputs to local storage for future reference.",
     "technologies": "HTML, CSS, JavaScript, JQuery"
   },
@@ -56,6 +61,7 @@
     "titleimage": "../images/budgetapptrackertitle.png",
     "link": "https://limitless-island-26284.herokuapp.com/",
     "github": "https://github.com/MarciaAdler/BudgetTracker",
+    "shortdescription": "Tracks users incoming and outgoing money activities.",
     "description": "The Budget Tracker App allows users to track their incoming and outgoing payments.  Users are able to input the name of a transcation, the amount, and whether they are adding funds or subtracting funds. Users can then see a list of their transactions, as well as a graph showing their total budget over time.  History is tracker in a database, and the app can be used offline.  Any transactions made while offline will be stored to be processed once a user goes back online.  The app is also designed to be a Progressive Web App (PWA) and is mobile friendly.",
     "technologies": "HTML, CSS, JavaScript, MongoDB, IndexedDB, PWA"
   },
@@ -66,6 +72,7 @@
     "titleimage": "../images/fitnesstrackertitle.png",
     "link": "https://vast-oasis-67368.herokuapp.com/?id=5e5d28ffb531fe0017469725",
     "github": "https://github.com/MarciaAdler/fitness-tracker",
+    "shortdescription": "Tracks exercises and workouts, and allows users to view a dashboard of previous workouts.",
     "description": "The fitness tracker app allows users to add exercises and create workouts. Users can add exercises to the last workout, or they can create a new workout.  Users can view a dashboard to view a summary of their recent exercises.",
     "technologies": "HTML, CSS, JavaScript, MongoDB, Express"
   }
