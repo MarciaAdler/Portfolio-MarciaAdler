@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio-MarciaAdler/static/css/main.f425a06e.chunk.css",
+    "main.css": "/Portfolio-MarciaAdler/static/css/main.40c01e72.chunk.css",
     "main.js": "/Portfolio-MarciaAdler/static/js/main.cf12e135.chunk.js",
     "main.js.map": "/Portfolio-MarciaAdler/static/js/main.cf12e135.chunk.js.map",
     "runtime-main.js": "/Portfolio-MarciaAdler/static/js/runtime-main.b063c9a1.js",
@@ -8,17 +8,17 @@
     "static/js/2.56da070f.chunk.js": "/Portfolio-MarciaAdler/static/js/2.56da070f.chunk.js",
     "static/js/2.56da070f.chunk.js.map": "/Portfolio-MarciaAdler/static/js/2.56da070f.chunk.js.map",
     "index.html": "/Portfolio-MarciaAdler/index.html",
-    "precache-manifest.d8efd789ef36dd2e745ce705f5a68219.js": "/Portfolio-MarciaAdler/precache-manifest.d8efd789ef36dd2e745ce705f5a68219.js",
+    "precache-manifest.7284f3efb9a91aa755d10b43daebdcf3.js": "/Portfolio-MarciaAdler/precache-manifest.7284f3efb9a91aa755d10b43daebdcf3.js",
     "service-worker.js": "/Portfolio-MarciaAdler/service-worker.js",
-    "static/css/main.f425a06e.chunk.css.map": "/Portfolio-MarciaAdler/static/css/main.f425a06e.chunk.css.map",
+    "static/css/main.40c01e72.chunk.css.map": "/Portfolio-MarciaAdler/static/css/main.40c01e72.chunk.css.map",
     "static/js/2.56da070f.chunk.js.LICENSE.txt": "/Portfolio-MarciaAdler/static/js/2.56da070f.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Portfolio-MarciaAdler/static/media/backgroundimage.01980763.jpg",
+    "static/media/index.css": "/Portfolio-MarciaAdler/static/media/backgroundimage.888e4cfd.jpg",
     "static/media/me.jpeg": "/Portfolio-MarciaAdler/static/media/me.16d51c9b.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.b063c9a1.js",
     "static/js/2.56da070f.chunk.js",
-    "static/css/main.f425a06e.chunk.css",
+    "static/css/main.40c01e72.chunk.css",
     "static/js/main.cf12e135.chunk.js"
   ]
 }
