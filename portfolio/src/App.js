@@ -14,10 +14,18 @@ function App() {
         <div>
           <Header />
           <NavTabs />
-          <Route exact path="/" component={About} />
-          <Route exact path="/about" component={About} />
-          <Route exact path="/portfolio" component={Portfolio} />
-          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/Portfolio-MarciaAdler" component={About} />
+          <Route exact path="/Portfolio-MarciaAdler/about" component={About} />
+          <Route
+            exact
+            path="/Portfolio-MarciaAdler/portfolio"
+            component={Portfolio}
+          />
+          <Route
+            exact
+            path="/Portfolio-MarciaAdler/contact"
+            component={Contact}
+          />
         </div>
       </Router>
       <Footer />
