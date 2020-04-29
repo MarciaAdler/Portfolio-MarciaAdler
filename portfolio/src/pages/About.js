@@ -35,7 +35,7 @@ function About() {
       </p>
       <p style={styles.p}>
         I have experience with the following technologies: HTML, CSS,
-        JavaScript, JQuery, MySQL, MongoDB, React, express, Node.js, Bootstrap
+        JavaScript, JQuery, MySQL, MongoDB, React, Express, Node.js, Bootstrap
       </p>
     </div>
   );
