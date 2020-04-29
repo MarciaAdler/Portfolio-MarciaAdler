@@ -34,8 +34,8 @@ function About() {
         applications.
       </p>
       <p style={styles.p}>
-        I have experience with the following technologies: HTML CSS, JavaScript,
-        JQuery, MySQL, MongoDB, React, express, Node.js, Bootstrap
+        I have experience with the following technologies: HTML, CSS,
+        JavaScript, JQuery, MySQL, MongoDB, React, express, Node.js, Bootstrap
       </p>
     </div>
   );
