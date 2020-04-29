@@ -33,7 +33,7 @@ function About() {
         teams to not only plan and develop but also build new products and
         applications.
       </p>
-      <p>
+      <p style={styles.p}>
         I have experience with the following technologies: HTML CSS, JavaScript,
         JQuery, MySQL, MongoDB, React, express, Node.js, Bootstrap
       </p>
