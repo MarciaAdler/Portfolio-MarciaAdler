@@ -21,8 +21,8 @@ function About() {
       <hr />
       <AboutImage />
       <p style={styles.p}>
-        I am a Product Manager/Product Developer with a Bachelors’s in Business
-        and Technology, an MBA, a background in consulting and a certificate for
+        I am a Product Manager/Web Developer with a Bachelors’s in Business and
+        Technology, an MBA, a background in consulting and a certificate for
         Full Stack Web Development from Columbia University. I have experience
         working successfully in teams on large projects to build products and
         applications to help clients achieve their business goals. I have
@@ -32,6 +32,10 @@ function About() {
         in consulting and skills from my certificate set me up well to work with
         teams to not only plan and develop but also build new products and
         applications.
+      </p>
+      <p>
+        I have experience with the following technologies: HTML CSS, JavaScript,
+        JQuery, MySQL, MongoDB, React, express, Node.js, Bootstrap
       </p>
     </div>
   );
