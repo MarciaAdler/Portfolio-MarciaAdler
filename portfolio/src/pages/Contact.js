@@ -15,6 +15,7 @@ const styles = {
   },
   title: {
     textAlign: "center",
+    color: "white",
   },
   icon: {
     float: "left",
