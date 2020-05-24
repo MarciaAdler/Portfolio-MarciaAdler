@@ -22,6 +22,7 @@ const styles = {
     height: "30px",
     marginRight: "10px",
     marginLeft: "20px",
+    borderRadius: ".5em",
   },
   link: {
     position: "relative",
