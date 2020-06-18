@@ -15,12 +15,14 @@ const styles = {
   },
   title: {
     textAlign: "center",
+    color: "white",
   },
   icon: {
     float: "left",
     height: "30px",
     marginRight: "10px",
     marginLeft: "20px",
+    borderRadius: ".5em",
   },
   link: {
     position: "relative",
