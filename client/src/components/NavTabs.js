@@ -18,23 +18,17 @@ function NavTabs() {
     <ul className="nav justify-content-center" style={styles.nav}>
       <li className="nav-item">
         <Link
-          to="/Portfolio-MarciaAdler/about"
-          className={
-            location.pathname === "/Portfolio-MarciaAdler/about"
-              ? "nav-link active"
-              : "nav-link"
-          }
+          to="/"
+          className={location.pathname === "/" ? "nav-link active" : "nav-link"}
         >
           About
         </Link>
       </li>
       <li className="nav-item" style={styles.link}>
         <Link
-          to="/Portfolio-MarciaAdler/portfolio"
+          to="/portfolio"
           className={
-            location.pathname === "/Portfolio-MarciaAdler/portfolio"
-              ? "nav-link active"
-              : "nav-link"
+            location.pathname === "/portfolio" ? "nav-link active" : "nav-link"
           }
         >
           Portfolio
@@ -42,11 +36,9 @@ function NavTabs() {
       </li>
       <li className="nav-item">
         <Link
-          to="/Portfolio-MarciaAdler/contact"
+          to="/contact"
           className={
-            location.pathname === "/Portfolio-MarciaAdler/contact"
-              ? "nav-link active"
-              : "nav-link"
+            location.pathname === "/contact" ? "nav-link active" : "nav-link"
           }
         >
           Contact
