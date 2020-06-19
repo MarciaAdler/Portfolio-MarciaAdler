@@ -16,12 +16,17 @@ function App() {
           <NavTabs />
           <Switch>
             <Route exact path="/Portfolio-MarciaAdler" component={About} />
-            <Route path="/Portfolio-MarciaAdler" component={About} />
+            <Route exact path="/Portfolio-MarciaAdler" component={About} />
             <Route
+              exact
               path="/Portfolio-MarciaAdler/portfolio"
               component={Portfolio}
             />
-            <Route path="/Portfolio-MarciaAdler/contact" component={Contact} />
+            <Route
+              exact
+              path="/Portfolio-MarciaAdler/contact"
+              component={Contact}
+            />
           </Switch>
         </div>
       </Router>
