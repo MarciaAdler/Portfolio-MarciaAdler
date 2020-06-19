@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35597ee20e31ec00a65e101dd9122c8e",
+    "revision": "6b29257729f94ee6d1fc77c60417e081",
     "url": "/Portfolio-MarciaAdler/index.html"
   },
   {
-    "revision": "97515fe48766f0fd8c5f",
+    "revision": "43d7cb513669e37cb755",
     "url": "/Portfolio-MarciaAdler/static/css/main.40c01e72.chunk.css"
   },
   {
-    "revision": "afc86fc01e368b187654",
-    "url": "/Portfolio-MarciaAdler/static/js/2.495f8649.chunk.js"
+    "revision": "bef64456a6117f0853bb",
+    "url": "/Portfolio-MarciaAdler/static/js/2.14069028.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/Portfolio-MarciaAdler/static/js/2.495f8649.chunk.js.LICENSE.txt"
+    "url": "/Portfolio-MarciaAdler/static/js/2.14069028.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97515fe48766f0fd8c5f",
-    "url": "/Portfolio-MarciaAdler/static/js/main.9b5228e9.chunk.js"
+    "revision": "43d7cb513669e37cb755",
+    "url": "/Portfolio-MarciaAdler/static/js/main.6d6be72d.chunk.js"
   },
   {
-    "revision": "3acfeba62108d50aad47",
-    "url": "/Portfolio-MarciaAdler/static/js/runtime-main.8c183f5d.js"
+    "revision": "9b090edf2077c12fe447",
+    "url": "/Portfolio-MarciaAdler/static/js/runtime-main.b063c9a1.js"
   },
   {
     "revision": "888e4cfd0f186594d3704452d909c3a8",

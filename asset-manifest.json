@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Portfolio-MarciaAdler/static/css/main.40c01e72.chunk.css",
-    "main.js": "/Portfolio-MarciaAdler/static/js/main.9b5228e9.chunk.js",
-    "main.js.map": "/Portfolio-MarciaAdler/static/js/main.9b5228e9.chunk.js.map",
-    "runtime-main.js": "/Portfolio-MarciaAdler/static/js/runtime-main.8c183f5d.js",
-    "runtime-main.js.map": "/Portfolio-MarciaAdler/static/js/runtime-main.8c183f5d.js.map",
-    "static/js/2.495f8649.chunk.js": "/Portfolio-MarciaAdler/static/js/2.495f8649.chunk.js",
-    "static/js/2.495f8649.chunk.js.map": "/Portfolio-MarciaAdler/static/js/2.495f8649.chunk.js.map",
+    "main.js": "/Portfolio-MarciaAdler/static/js/main.6d6be72d.chunk.js",
+    "main.js.map": "/Portfolio-MarciaAdler/static/js/main.6d6be72d.chunk.js.map",
+    "runtime-main.js": "/Portfolio-MarciaAdler/static/js/runtime-main.b063c9a1.js",
+    "runtime-main.js.map": "/Portfolio-MarciaAdler/static/js/runtime-main.b063c9a1.js.map",
+    "static/js/2.14069028.chunk.js": "/Portfolio-MarciaAdler/static/js/2.14069028.chunk.js",
+    "static/js/2.14069028.chunk.js.map": "/Portfolio-MarciaAdler/static/js/2.14069028.chunk.js.map",
     "index.html": "/Portfolio-MarciaAdler/index.html",
-    "precache-manifest.be459b35bff037e0be52c8e1b805be87.js": "/Portfolio-MarciaAdler/precache-manifest.be459b35bff037e0be52c8e1b805be87.js",
+    "precache-manifest.695d72fcc7fd0fb7066230d433dbb832.js": "/Portfolio-MarciaAdler/precache-manifest.695d72fcc7fd0fb7066230d433dbb832.js",
     "service-worker.js": "/Portfolio-MarciaAdler/service-worker.js",
     "static/css/main.40c01e72.chunk.css.map": "/Portfolio-MarciaAdler/static/css/main.40c01e72.chunk.css.map",
-    "static/js/2.495f8649.chunk.js.LICENSE.txt": "/Portfolio-MarciaAdler/static/js/2.495f8649.chunk.js.LICENSE.txt",
+    "static/js/2.14069028.chunk.js.LICENSE.txt": "/Portfolio-MarciaAdler/static/js/2.14069028.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Portfolio-MarciaAdler/static/media/backgroundimage.888e4cfd.jpg",
     "static/media/me.jpeg": "/Portfolio-MarciaAdler/static/media/me.16d51c9b.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c183f5d.js",
-    "static/js/2.495f8649.chunk.js",
+    "static/js/runtime-main.b063c9a1.js",
+    "static/js/2.14069028.chunk.js",
     "static/css/main.40c01e72.chunk.css",
-    "static/js/main.9b5228e9.chunk.js"
+    "static/js/main.6d6be72d.chunk.js"
   ]
 }
